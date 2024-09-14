@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="https://github.com/IAPR-TC15/.github/blob/main/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">
+<img src="https://iapr-tc15.io/media/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">
 
 # About IAPR-TC15
 
