@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IAPR-TC15 Datasets and Repositories
-permalink: /repo/
+title: Datasets
+permalink: /datasets/
 ---
 
 # List of repositories
