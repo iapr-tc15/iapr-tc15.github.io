@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to IAPR-TC15
-order: 1
-exclude: true
 ---
+
+# Welcome to IAPR-TC15
 
 <img src="{{site.baseurl}}/media/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">
 
