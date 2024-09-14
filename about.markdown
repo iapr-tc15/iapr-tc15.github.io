@@ -26,7 +26,7 @@ The main research topics are:
 
 For more information about IAPR-TC15 and its activities please visit the official web page: [https://www.iapr-tc15.org/](https://www.iapr-tc15.org/)
 
-## Our Challenges
+# Our Challenges
 
 We agree to focus on some special “challenges” which can help our community to federate its research. These challenges are:
 
@@ -44,7 +44,7 @@ Graphs can be used for image feature representation. In the past this usage has 
 
 Discussions and exchanges of ideas about these topics have taken place during the past GbR workshops and on our mailing list.
 
-## Future Activities
+# Future Activities
 
 Our future activities will be centered on the following main themes:
 
