@@ -9,7 +9,7 @@ order: 2
 
 - **Chair**: Prof. Donatello Conte
 - **Vice-chair**: Prof. Vincenzo Carletti
-- **Steering Committee**: Prof. Mario Vento, Prof. Pasquale Foggia, Prof. Walter Kropatsch, Prof. Luc Brun, Prof. Xiaoyi Jiang, Prof. Edwin Hancock
+- **Steering Committee**: Prof. Mario Vento, Prof. Pasquale Foggia, Prof. Walter G. Kropatsch, Prof. Luc Brun, Prof. Xiaoyi Jiang, Prof. Edwin Hancock
 
 # Aims and Scope
 
