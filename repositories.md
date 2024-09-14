@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Datasets
-permalink: /datasets/
+title: Repositories
+permalink: /resources/repositories/
 ---
 
 # List of repositories
