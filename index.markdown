@@ -6,7 +6,7 @@ layout: page
 title: Welcome to IAPR-TC15
 ---
 
-This is the web site of the Technical Committee #15 of the International Association for Pattern Recognition (IAPR), dedicated to promote the research on Graph-based Representations in the Pattern Recognition field.
+This is the web site of the Technical Committee #15 of the [International Association for Pattern Recognition (IAPR)](http://www.iapr.org/), dedicated to promote the research on Graph-based Representations in the Pattern Recognition field.
 
 Within this site you will find information about the past and present activities of IAPR TC15, about its members, as well as news and events regarding our field of interests. You can also find documents, links and software downloads that can be useful for working on graph-based representations.
 
