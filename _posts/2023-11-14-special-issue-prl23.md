@@ -11,6 +11,8 @@ Given the multitude of scientific problems and the wide applications of graph-ba
 
 This special issue is aimed to report the state of the art in theory, methods and applications in graph- based pattern representation and recognition. The scope ranges from various methodological and algorithmic issues of graph-based representation, learning and inference, to several applications in pattern recognition, computer vision and data mining.
 
+### Topics
+
 The topics of interest for this special issue include (but are not limited to):
 
 - Graph based methodologies for pattern recognition
@@ -24,7 +26,7 @@ The topics of interest for this special issue include (but are not limited to):
 - Graph in social network analysis
 - Other graph based applications in pattern recognition
 
-Editors
+### Editors
 
 **Prof. Pasquale Foggia (Managing guest-editor)**
 
@@ -33,10 +35,12 @@ Università di Salerno (Italy) E-mail: pfoggia@unisa.it
 **Prof. Mario Vento**
 
 Università di Salerno (Italy) E-mail: mvento@unisa.it
-TC15 Endorsement
+
+### TC15 Endorsement
 
 The IAPR Technical Committee #15 on Graph-based Representation in Pattern Recognition fully supports and promotes this Special Issue, and will use its web site and its mailing list to give visibility to its publication.
-Important dates
+
+### Important dates
 
 - Paper Submission Deadline: ~~December 1-20, 2023 ( January 8, 2024)~~
 - First-round notification: ~~February 18, 2024~~
