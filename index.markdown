@@ -6,7 +6,7 @@ layout: page
 title: Welcome to IAPR-TC15
 ---
 
-<img src="https://iapr-tc15.io/media/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">
+<img src="{{site.baseurl}}/media/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">
 
 This is the web site of the Technical Committee #15 of the [International Association for Pattern Recognition (IAPR)](http://www.iapr.org/), dedicated to promote the research on Graph-based Representations in the Pattern Recognition field.
 
