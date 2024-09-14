@@ -4,6 +4,7 @@
 
 layout: home
 title: Welcome to IAPR-TC15
+order: 1
 ---
 
 <img src="{{site.baseurl}}/media/iapr-logo.jpeg" align="center" width="40%" alt="IAPR-TC15 Logo">

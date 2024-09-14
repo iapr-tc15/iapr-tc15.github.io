@@ -2,6 +2,7 @@
 layout: page
 title: History
 permalink: /about/history/
+order: 3
 ---
 
 IAPR Technical Committee #15 on “Graph based Representations” was created during the meeting of the IAPR governing board in Vienna on 27 August 1996. The scope of the new committee was of interest to a large section of people dealing with graph representations and willing to exchange algorithms and applications in this area. Several activities were planned. Quoting from the original document announcing the birth of this Techincal Committee:

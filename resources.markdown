@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Repositories
-permalink: /resources/repositories/
+title: Resources
+permalink: /resources
+order: 4
 ---
 
-# List of repositories
+# Datasets
+
+# Repositories
 
 Here the list of all the repositories of research groups and members of the TC15.
 - [MIVIA Lab - University of Salerno](https://github.com/MiviaLab)

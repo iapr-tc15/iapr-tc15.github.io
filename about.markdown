@@ -2,6 +2,7 @@
 layout: page
 title: Aim and Scope
 permalink: /about/
+order: 2
 ---
 
 TC15 focuses on leveraging graph theory as a framework for various applications, such as image segmentation, recognition, clustering, and structural knowledge representation. Graphs are used for handling complex data, particularly in scenarios where irregularly sampled or structured data need to be processed efficiently.
