@@ -42,7 +42,7 @@ order: 5
    
 8. **Research Integrity and Accountability**
 
-    Members of TC15 are responsible for maintaining the integrity of their research outputs. Any suspected ethical breaches, including falsified data, plagiarism, or violations of collaborative agreements, should be reported to the TC15 steering committee.
+    Members of TC15 are responsible for maintaining the integrity of their research outputs. Any suspected ethical breaches, including falsified data, plagiarism, or violations of collaborative agreements, should be reported to the TC15 steering committee (steering@iapr-tc15.org).
 
    
 9. **Safe and Accessible Participation**
@@ -57,5 +57,5 @@ order: 5
    
 11. **Accountability and Reporting**
 
-   Any breaches of this Code of Conduct should be reported to TC15 steering committee. Complaints will be handled confidentially and in a timely manner. TC15 is committed to transparency in addressing grievances and ensuring that appropriate corrective measures are taken when violations occur.
+   Any breaches of this Code of Conduct should be reported to TC15 steering committee (steering@iapr-tc15.org). Complaints will be handled confidentially and in a timely manner. TC15 is committed to transparency in addressing grievances and ensuring that appropriate corrective measures are taken when violations occur.
 
