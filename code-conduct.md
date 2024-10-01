@@ -39,22 +39,22 @@ order: 5
 
     Harassment or discrimination of any kind, including in academic discussions, collaborations, or during conferences and workshops, will not be tolerated. All researchers must engage in discussions and critiques of research in a professional and respectful manner, avoiding personal attacks and fostering an environment of constructive feedback.
 
+   
+9. **Research Integrity and Accountability**
 
-8. **Research Integrity and Accountability**
+    Members of TC15 are responsible for maintaining the integrity of their research outputs. Any suspected ethical breaches, including falsified data, plagiarism, or violations of collaborative agreements, should be reported to the TC15 steering committee.
 
-    Members of TC15 are responsible for maintaining the integrity of their research outputs. Any suspected ethical breaches, including falsified data, plagiarism, or violations of collaborative agreements, should be reported to the TC15 steering committee. 
-
-
-9. **Safe and Accessible Participation**
+   
+10. **Safe and Accessible Participation**
 
    All TC15 events, meetings, and workshops should be safe and accessible. We strive to ensure that physical and virtual spaces are welcoming for all, including providing accommodations for disabilities and other individual circumstances. Participants should feel safe and free to engage fully in TC15 activities.
-
-
-10. **Supporting Open Science and Reproducibility**
+   
+   
+11. **Supporting Open Science and Reproducibility**
 
    TC15 encourages its members to support open science practices by sharing research outputs, such as code, data, and findings, with the wider community to promote reproducibility. This openness should be balanced with appropriate respect for intellectual property and collaboration agreements.
 
-
+   
 11. **Accountability and Reporting**
 
    Any breaches of this Code of Conduct should be reported to TC15 steering committee. Complaints will be handled confidentially and in a timely manner. TC15 is committed to transparency in addressing grievances and ensuring that appropriate corrective measures are taken when violations occur.
