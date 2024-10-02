@@ -11,6 +11,11 @@ order: 2
 - **Vice-chair**: Prof. Vincenzo Carletti
 - **Steering Committee**: Prof. Mario Vento, Prof. Pasquale Foggia, Prof. Walter G. Kropatsch, Prof. Luc Brun, Prof. Xiaoyi Jiang
 
+# Contacts
+
+- **Chair**: chair@iapr-tc15.org
+- **Steering Committee**: steering@iapr-tc15.org
+
 # Aims and Scope
 
 TC15 focuses on leveraging graph theory as a framework for various applications, such as image segmentation, recognition, clustering, and structural knowledge representation. Graphs are used for handling complex data, particularly in scenarios where irregularly sampled or structured data need to be processed efficiently.
@@ -29,8 +34,6 @@ The main research topics are:
 - Graph in social network analysis
 - Irregular (graph) pyramids
 - Other graph-based applications in pattern recognition.
-
-For more information about IAPR-TC15 and its activities please visit the official web page: [https://www.iapr-tc15.org/](https://www.iapr-tc15.org/)
 
 # Our Challenges
 
