@@ -16,5 +16,5 @@ For joining IAPR TC15 or subscribing our mailing list please visit the member se
 
 <p align="center"><strong>The IAPR TC15 chairman</strong></p>
 <p align="center">Prof. Donatello Conte</p>
-<p align="center"><i class="fa fa-envelope" style="font-size:24px"></i>chair@iapr-tc15.org</p>
+<p align="center">For communication with the current leaders, please use the following e-mail: chair@iapr-tc15.org</p>
 
