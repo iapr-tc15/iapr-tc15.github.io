@@ -23,7 +23,6 @@ order: 4
 - [VF2](https://github.com/MiviaLab/vf2lib)
 - [VF3-Parallel](https://github.com/MiviaLab/vf3-parallel)
 - [graph-lib](https://github.com/bgauzere/graph-lib)
-- [graphkit-learn](https://github.com/bgauzere/graphkit-learn)
 - [ChemoKernel](https://github.com/bgauzere/ChemoKernel)
 - [graphkit-learn](https://github.com/jajupmochi/graphkit-learn)
   
