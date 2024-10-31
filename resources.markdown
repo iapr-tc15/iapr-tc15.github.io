@@ -8,7 +8,7 @@ order: 4
 - GbR2023 - [Graph-based Representations for Pattern Recognition: New Results and Challenges (GbRNRC)](https://www.sciencedirect.com/journal/pattern-recognition-letters/about/call-for-papers)
 
 # Books
-- [Graph Based Multimedia Analysis](https://www.sciencedirect.com/book/9780443214950/graph-based-multimedia-analysis)
+- [Graph Based Multimedia Analysis -  Elsevier (2024) - Ananda S. Chowdhury and Abhimanyu Sahu](https://www.sciencedirect.com/book/9780443214950/graph-based-multimedia-analysis)
 
 # Datasets
 - [IAM Graph Database](https://zenodo.org/records/13763793)
