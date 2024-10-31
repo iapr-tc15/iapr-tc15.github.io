@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "1st International Workshop on Graph Learning and Graph Signal Processing Algorithms in Computer Vision (G2SP-CV 2024) at ICPR2024"
+date:   2024-10-31 11:40:53 +0200
+categories: news events
+---
+
+We would like to announce the 1st International Workshop on Graph Learning and Graph Signal Processing Algorithms in Computer Vision (G2SP-CV 2024) hosted by ICPR2024. 
+The workshop has been organized by one of our member, Prof. Ananda S. Chowdhury, in collaboration with Prof. Thierry Bouwmans, Prof. Jhony H. Giraldo and Prof. Badri N. Subudhi.
+
+The topics of the workshop are:
+- Graph Machine Learning for Computer Vision
+- Graph Neural Networks (GNNs)
+- GNN Architectures
+- Interpretable/Explainable GNNs
+- Unsupervised/Self-Supervised GNNs
+- GSP-based Graph Learning in GNNs
+- Sampling and Recovery of Graph Signals
+- Statistical Graph Signal Processing
+- Non-linear Graph Signal Processing 
+- Signals in high-order Graphs
+- Graph-based Segmentation and Classification
+- Graph-based Image and Video Processing
+- Graph-based Image Restoration
+- Graph-based Image Filtering
+- Graph-based Event Data Processing
+
+# Workshop chairs
+- Thierry Bouwmans, La Rochelle Université, France
+- Jhony H. Giraldo, LTCI, Télécom Paris, France
+- Ananda S. Chowdhury, Jadavpur University, India
+- Badri N. Subudhi, Indian Institute of Technology, India
+
+
+More information can be found at this [link](https://sites.google.com/view/g2sp-cv-2024).
+
