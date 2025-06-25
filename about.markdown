@@ -7,8 +7,8 @@ order: 2
 
 # Structure and Organization 
 
-- **Chair**: Prof. Donatello Conte
-- **Vice-chair**: Prof. Vincenzo Carletti
+- **Chair**: Prof. Vincenzo Carletti
+- **Vice-chair**: Prof. Benoit Gaüzère
 - **Steering Committee**: Prof. Mario Vento, Prof. Pasquale Foggia, Prof. Walter G. Kropatsch, Prof. Luc Brun, Prof. Xiaoyi Jiang
 
 # Contacts
