@@ -5,7 +5,7 @@ permalink: /about/procedures
 order: 10
 ---
 
-This page describes the standard procedures for proposing the organization of events such as Tutorials, Contests, Special Sessions, Workshops, as well as the election process of the TC15 Chair, and appointments for Governing Board roles within the IAPR Technical Committee 15 (TC15) community.
+This page describes the procedures for proposing the organization of events such as Tutorials, Contests, Special Sessions, Workshops, as well as the election process of the TC15 Chair, and appointments for Governing Board roles within the IAPR Technical Committee 15 (TC15) community.
 
 
 ### Proposals of Conference Tracks and Sessions
