@@ -1,0 +1,50 @@
+<!-- <header class="site-header">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
+    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    
+    {%- unless page_titles == empty %}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon"></span>
+        </label>
+
+        {% include nav-items.html paths = page_paths %}
+      </nav>
+    {%- endunless %}
+  </div>
+</header> -->
+
+<header class="site-header" role="banner">
+  <div class="wrapper site-header-inner">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+
+    <nav class="site-nav" role="navigation" aria-label="Main navigation">
+      <ul class="nav-links">
+        {% for item in site.data.navigation %}
+          <li class="{% if item.children %}has-dropdown{% endif %}">
+            <a href="{{ item.url | relative_url }}">
+              {{ item.title }}
+              {% if item.children %}<span aria-hidden="true"></span>{% endif %}
+            </a>
+
+            {% if item.children %}
+              <ul class="dropdown">
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+

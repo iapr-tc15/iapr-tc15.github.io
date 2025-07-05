@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IAPR-TC15
-email: vcarletti@unisa.it
+email: chair@iapr-tc15.org
 description: >- # this means to ignore newlines until "baseurl:"
   This is the web site of the Technical Committee #15 of the International Association for Pattern Recognition (IAPR), 
   dedicated to promote the research on Graph-based Representations in the Pattern Recognition field.

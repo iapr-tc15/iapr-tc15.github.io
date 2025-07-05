@@ -1,0 +1,13 @@
+- Member page
+  - Read records from csv
+  - Dynamically create a table with name, surname, affiliation (email are not shown)
+  - Registration/Edit form
+
+- Add favicon
+- New 404 page with graphs
+- Pages with procedures:
+  - Chair Election
+  - Proposal for contests and workshop
+
+- Email for membership confirmation and request to register
+- Create email for webadmin

@@ -1,20 +1,43 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
 <p align="center">
 <img src="{{site.baseurl}}/media/iapr-logo.jpeg" width="40%" alt="IAPR-TC15 Logo">
 </p>
 
-This is the web site of the Technical Committee #15 of the [International Association for Pattern Recognition (IAPR)](http://www.iapr.org/), dedicated to promote the research on Graph-based Representations in the Pattern Recognition field.
+This is the official website of **Technical Committee #15 (TC15)** of the [**International Association for Pattern Recognition (IAPR)**](http://www.iapr.org/). 
+TC15 is dedicated to promoting research on **graph-based representations and learning** in pattern recognition, image analysis, and related fields.
 
-Within this site you will find information about the past and present activities of IAPR TC15, about its members, as well as news and events regarding our field of interests. You can also find documents, links and software downloads that can be useful for working on graph-based representations.
+Graphs offer a rich and flexible way to represent structured and relational data. From image segmentation to shape analysis, from social network modeling to bioinformatics, graph-based methods play a central role in understanding complex data domains. In recent years, the emergence of graph neural networks (GNNs) and related deep learning techniques has further expanded the scope and impact of graph-based research.
 
-For joining IAPR TC15 or subscribing our mailing list please visit the member section on the left pannel. For obtaining some more information about TC15, feel free to send an e-mail to the address reported above and below.
+As a technical committee, TC15 facilitates collaboration within the research community by coordinating workshops, challenges, and joint activities. It contributes to the dissemination of scientific advances, encourages reproducible research, and fosters connections among researchers.
 
-<p align="center"><strong>The IAPR TC15 chairman</strong></p>
-<p align="center">Prof. Vincenzo Carletti</p>
-<p align="center">For communication with the current leaders, please use the following e-mail: chair@iapr-tc15.org</p>
+### What You’ll Find Here
+
+- Information about **TC15 activities**, past and present  
+- Updates on **workshops, challenges, and conferences**  
+- Access to **benchmark datasets, publications, and software**  
+- Details about **our members, working groups, and mailing list**
+
+*To become part of the TC15 community or subscribe to our mailing list, please visit the **[Members section](/members/)**.*
+
+For communication with the current leaders, please use the following e-mail: chair at iapr-tc15.org
+
+### Board Memebers
+
+Chair: Prof. Vincenzo Carletti
+
+Vice-Chair: Prof. Benoit Gaüzère
+
+### Lates News
+
+<ul>
+  {% assign sortedposts = site.posts | sort: "date" | reverse %}
+  {% for post in sortedposts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br/>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
 
