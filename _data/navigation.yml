@@ -9,3 +9,7 @@
       url: "/about/procedures"
 - title: "Resources"
   url: "/resources"
+- title: "News"
+  url: "/news"
+- title: "Members"
+  url: "/members"
