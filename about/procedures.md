@@ -36,7 +36,7 @@ The submission procedure includes:
 
 - **Post-Workshop Reporting:** Organizers submit a summary report highlighting participation, key presentations, and outcomes. The report is revised by the TC15 Chair and submitted to the IAPR.
 
-#### Chairman Election
+### Chairman Election
 
 The election of the TC15 Chair is a relevant process ensuring the continuity and leadership of the committee. The procedure is as follows:
 
@@ -48,7 +48,7 @@ The election of the TC15 Chair is a relevant process ensuring the continuity and
 
 - **Election:** The formal election takes place during the TC15 Meeting at the GbR Workshop, where members vote to select the new Chair.
 
-#### Governing Board Roles Application
+### Governing Board Roles Application
 
 In addition to the Chair, TC15 has different key Governing Board roles that essential for its smooth operation and community engagement. 
 
@@ -69,6 +69,6 @@ The procedure for applying to these roles is as follows:
 
 - **Term and Duties:** Appointees serve terms defined by the TC15 Chair and work collaboratively to support TC15 activities.
 
-#### Contact and Support
+### Contact and Support
 
 For submission guidelines, deadlines, assistance with proposals, or questions regarding elections and Governing Board roles, please contact the TC15 Chair.
