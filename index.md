@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 <p align="center">
 <img src="{{site.baseurl}}/media/iapr-logo.jpeg" width="40%" alt="IAPR-TC15 Logo">
