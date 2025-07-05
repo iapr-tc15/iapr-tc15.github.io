@@ -17,7 +17,7 @@ Researchers who are interested in becoming TC15 members are invited to send an e
       <th>Surname</th>
       <th>Name</th>
       <th>Affiliation</th>
-      <th>Personal page</th>
+      <th>Web page</th>
     </tr>
   </thead>
   <tbody>
