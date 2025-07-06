@@ -8,19 +8,23 @@ order: 10
 This page describes the procedures for proposing the organization of events such as Tutorials, Contests, Special Sessions, Workshops, as well as the election process of the TC15 Chair, and appointments for Governing Board roles within the IAPR Technical Committee 15 (TC15) community.
 
 
-### Proposals of Conference Tracks and Sessions
+### TC15-Supported Events: Guidelines for Proposal Submission
 
-TC15 encourages the organization of Workshops, Tutorials, Contests, and Special Sessions at relevant international conferences to promote focused discussion on graph-based methods in pattern recognition. The submission procedure is as follows:
+TC15 encourages the organization of Workshops, Tutorials, Contests, and Special Sessions at relevant international conferences to promote discussion on graph-based methods in pattern recognition. The following procedure applies to proposals that seek endorsement or support from TC15.
 
-- **Proposal Preparation:** Submit a detailed proposal including title, abstract, motivation, topics covered, and intended audience. Include organizer names and affiliations.
+*While members are free to submit proposals independently, such initiatives must not be presented as being on behalf of, or endorsed by, TC15 without prior approval from the TC15 Chair and Steering Committee.*
 
-- **Review and Approval:** Proposals are reviewed and approved by the TC15 Chair and Steering Committee to ensure relevance, novelty, and community interest.
+The submission and endorsement procedure is as follows:
 
-- **Announcement:** Upon approval, TC15 supports dissemination through mailing lists and website announcements and other channels.
+- **Proposal Preparation**: Submit a proposal including the title, abstract, motivation, topics covered, and intended audience. Please also include the names and affiliations of the organizers.
 
-- **Organization:** Organizers handle logistics including registration, program, and publication, following guidelines provided by the host conference. TC15 members can be invited to provide support and participate to the organization.  
+- **Review and Endorsement**: Proposals seeking TC15 endorsement must be reviewed and approved by the TC15 Chair and Steering Committee. This approval means official support from TC15 and ensures the proposal’s relevance, novelty, and interest to the community.
 
-- **Report:** After the event, organizers are encouraged to provide a brief report summarizing outcomes, which will be published on the TC15 website.
+- **Announcement**: Once approved, TC15 will support the dissemination of the event through mailing lists, the TC15 website, and other appropriate channels.
+
+- **Organization**: Organizers are responsible for all logistics, including registration, program development, and publication, in accordance with the host conference's guidelines. TC15 members may be invited to contribute or assist in the organization.
+
+- **Report**: After the event, organizers are encouraged to submit a brief report summarizing the event and its outcomes. This report will be published on the TC15 website to inform and engage the wider community.
 
 
 ### GbR Workshop Organization Application
