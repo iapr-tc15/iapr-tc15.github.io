@@ -11,6 +11,11 @@ order: 4
 - [Graph Based Multimedia Analysis -  Elsevier (2024) - Ananda S. Chowdhury and Abhimanyu Sahu](https://www.sciencedirect.com/book/9780443214950/graph-based-multimedia-analysis)
 
 ## Datasets
+We are moving our dataset on Zenodo, a European platform hosted by CERN.
+Join our [Zenodo Community](https://zenodo.org/communities/iapr-tc15/)!
+
+*To publish or promote your dataset within the Zenodo TC15 Community, please email the TC15 Chair.*
+
 - [IAM Graph Database](https://zenodo.org/records/13763793)
 - [MIVIA ARG Dataset](https://zenodo.org/records/11204020)
 - [MIVIA Dataset of Biological Graphs](https://zenodo.org/records/11207610)
