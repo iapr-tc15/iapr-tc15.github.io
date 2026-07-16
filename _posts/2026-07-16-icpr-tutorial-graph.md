@@ -5,7 +5,7 @@ date:   2026-07-16 09:11:53 +0200
 categories: news events
 ---
 
-We are glad to share the tuturial "Graph based Models for Video Data Analysis from Various Sensors" organized at ICPR 2026 by a member of TC15, Prof. Ananda S. Chowdhury.
+We are glad to promote the tutorial *Graph based Models for Video Data Analysis from Various Sensors* organized at ICPR 2026 by a member of TC15, Prof. Ananda S. Chowdhury.
 
 For more information follow this [link](https://icpr2026.org/tutorials.html#T1)
 
