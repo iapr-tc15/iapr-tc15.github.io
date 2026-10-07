@@ -26,7 +26,7 @@ Both positions are based at LITIS, INSA Rouen Normandie, near Rouen, France.
 
 Full details:
 
-- [https://bgauzere.github.io/MSc_internship_offer_FAMOUS_edge_reconstructibility.pdf](FAMOUS internship)
-- [https://bgauzere.github.io/OFFRE_INGENIEUR_OCTOPUSSY_2027_EN.pdf](OCTOPUSSY engineer position)
+- [FAMOUS internship](https://bgauzere.github.io/MSc_internship_offer_FAMOUS_edge_reconstructibility.pdf)
+- [OCTOPUSSY engineer position](https://bgauzere.github.io/OFFRE_INGENIEUR_OCTOPUSSY_2027_EN.pdf)
 
 Applications and questions can be sent to: benoit.gauzere@insa-rouen.fr
